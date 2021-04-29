@@ -1,0 +1,12 @@
+{
+  "ignition": {
+    "config": {
+      "merge": [
+        {
+          "source": "http://172.27.0.84:81/bootstrap.ign"
+        }
+      ]
+    },
+    "version": "3.2.0"
+  }
+}
